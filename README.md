@@ -18,6 +18,6 @@ Password Generator Application
 
 
 ```bash
-This project dont have release version (Just Source Code)
+Hmmmm
 ```
     
