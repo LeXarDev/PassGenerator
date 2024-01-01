@@ -1,7 +1,7 @@
 
 # Password Generator
 
-A Windows Password Generator Application
+Password Generator Application
 
 
 ## Features
@@ -14,15 +14,6 @@ A Windows Password Generator Application
 - Symbols
 - Exclude Duplicate
 - Show Password Power
-
-
-## Screenshots
-
-![App Screenshot](https://github.com/Mxqius/Password-Generator/assets/80541964/3143bd35-8029-40f3-aaf0-e907915fa0ba)
-
-
-
-## Installation
 
 
 
